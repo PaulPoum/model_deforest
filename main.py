@@ -60,7 +60,7 @@ def train_models(df):
 def main():
     st.title("🌳 Modélisation et Analyse de la Déforestation")
     st.markdown("""
-    **Problématique** : Analyse des dynamiques de déforestation et modélisation des impacts 
+    Analyse des dynamiques de déforestation et modélisation des impacts 
     socio-environnementaux dans un contexte de croissance démographique et d'expansion agricole.
     """)
     

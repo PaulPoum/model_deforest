@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Modélisation de la Déforestation - Thèse Doctoral",
+    page_title="Modélisation de la Déforestation",
     page_icon="🌳",
     layout="wide"
 )
@@ -58,11 +58,10 @@ def train_models(df):
     return models
 
 def main():
-    st.title("🌳 Modélisation et Analyse de la Déforestation - Thèse Doctoral")
+    st.title("🌳 Modélisation et Analyse de la Déforestation")
     st.markdown("""
-    **Problématique de thèse** : Analyse des dynamiques de déforestation et modélisation des impacts 
+    **Problématique** : Analyse des dynamiques de déforestation et modélisation des impacts 
     socio-environnementaux dans un contexte de croissance démographique et d'expansion agricole.
-    **Cadre méthodologique** : Intégration des scénarios GIEC SSP pour l'analyse prospective.
     """)
     
     # Chargement des données

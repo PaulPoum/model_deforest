@@ -1,9 +1,9 @@
 README.md# README.md
 
-## 🌳 Modélisation et Analyse de la Déforestation - Thèse Doctorale
+## 🌳 Modélisation et Analyse de la Déforestation
 
 ### Description
-Cette application Streamlit est un outil interactif conçu pour l'analyse et la modélisation de la déforestation dans le cadre d'une thèse doctorale. Elle intègre des données historiques (2000-2024) sur les forêts denses, les plantations, les cultures agricoles, la population et la séquestration de CO2. Les fonctionnalités principales incluent :
+Cette application est un outil interactif conçu pour l'analyse et la modélisation de la déforestation. Elle intègre des données historiques (2000-2024) sur les forêts denses, les plantations, les cultures agricoles, la population et la séquestration de CO2. Les fonctionnalités principales incluent :
 
 - **Visualisation des données** : Graphiques interactifs (Plotly) et tableaux descriptifs.
 - **Analyse des tendances** : Corrélations, taux de changement et tendances linéaires.

@@ -5,3 +5,13 @@ matplotlib
 seaborn
 scikit-learn
 plotly
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+flask
+fastapi
+uvicorn
+requests
+beautifulsoup4
